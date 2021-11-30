@@ -1,22 +1,19 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to HPC Lab, HCMUT documentation!
+==============================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+The High Performance Computing Lab (HPC Lab) is a group of researchers at Ho Chi Minh City University of Technology, Faculty of Computer Science and Engineering.
+Directed by Professor Dr. Nam Thoai and the HPC Lab is one of the first groups in Vietnam to have addressed the research area of High Performance Computing Field.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`contact` section for our contact information.
 
 .. note::
 
-   This project is under active development.
+   This document is under active development.
 
-Contents
---------
+Document Contents
+---------------------
 
 .. toctree::
 
-   usage
-   api
+   jira
+   contact
