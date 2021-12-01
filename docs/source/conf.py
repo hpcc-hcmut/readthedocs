@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = "Lumache"
+project = "HPC Lab Documents"
 copyright = "2021"
 author = "High Performance Computing Lab, HCMUT"
 
