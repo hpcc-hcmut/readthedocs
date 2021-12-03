@@ -16,4 +16,6 @@ Document Contents
 .. toctree::
 
    jira
+   google
+   wordpress
    contact
